@@ -1,0 +1,19 @@
+{
+  "name": "pizzariadubaipedidos",
+  "version": "1.0.0",
+  "description": "Sistema de pedidos da pizzaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/mmits/pizzariadubaipedidos.git"
+  },
+  "author": "MMITS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/mmits/pizzariadubaipedidos/issues"
+  },
+  "homepage": "https://bitbucket.org/mmits/pizzariadubaipedidos#readme"
+}
